@@ -1,16 +1,27 @@
-## Hi there 👋
+# Науменко Михаил — Junior Data Analyst
 
-<!--
-**Naumenko-M/Naumenko-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Стек
+- Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Pingouin)
+- SQL (PostgreSQL, оконные функции, CTE)
+- DataLens
+- Airflow
+- Gitlab, JupyterHub
 
-Here are some ideas to get you started:
+## Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Анализ продаж видеоигр](ссылка)
+Выявил факторы успешности игр на данных до 2016 г., проверил гипотезы, составил портреты пользователей по регионам. Вывод: для кампании 2017 г. перспективны Action и Shooter на PS4 и Xbox One.
+*Стек: Python, Pandas, Matplotlib, SciPy.*
+
+### [Название второго проекта](ссылка)
+Задача → что сделали → ключевой результат.
+*Стек: ...*
+
+## О себе
+В 2024 году начал изучать аналитику. Прошел курсы:
+- имею высшее образование "Учитель математики и информатики"
+- Яндекс.Практикум - "Анализ данных";
+- Karpov.Courses: "Аналитик данных", "Симулятор аналитика", "Симулятор SQL", "Основы Python"
+
+## Контакты
+- Telegram: [@ник](https://t.me/Naumenko_Mihail)
