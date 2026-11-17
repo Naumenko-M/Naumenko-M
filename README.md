@@ -13,7 +13,7 @@
 Выявил факторы успешности игр на данных до 2016 г., проверил гипотезы, составил портреты пользователей по регионам. Вывод: для кампании 2017 г. перспективны Action и Shooter на PS4 и Xbox One.
 *Стек: Python, Pandas, Matplotlib, SciPy.*
 
-### [Продуктовая аналитика маркетплейса](ссылка)(https://github.com/Naumenko-M/marketplace-product-analytics/tree/main)
+### [Продуктовая аналитика маркетплейса](https://github.com/Naumenko-M/marketplace-product-analytics/tree/main)
 Провел когортный анализ месячного retention, выявил отсутствие product/market fit. Определил основные метрики, выбрал приоритетную гипотезу по улучшению продукта по фреймворку ICE. Составил рекомендации для бизнеса.
 Задача → что сделали → ключевой результат.
 *Стек: Python, Pandas, Matplotlib, Numpy, Seaborn Requests.*
